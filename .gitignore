@@ -11,3 +11,7 @@ gradle.prefs
 */.project
 */.settings/
 */target
+
+*/*.iml
+*/.idea/
+
